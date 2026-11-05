@@ -18,8 +18,6 @@
 // @grant        unsafeWindow
 // @inject-into  page
 // @run-at       document-start
-// @downloadURL  https://raw.githubusercontent.com/ALphacoreEXE/chess/refs/heads/main/%F0%9D%95%AC%F0%9D%96%91%F0%9D%96%95%F0%9D%96%8D%F0%9D%96%86_%F0%9D%95%AE%F0%9D%96%8D%F0%9D%96%8A%F0%9D%96%98%F0%9D%96%98_%F0%9D%95%AD%F0%9D%96%94%F0%9D%96%99-13_0_0_user.js
-// @updateURL    https://raw.githubusercontent.com/ALphacoreEXE/chess/refs/heads/main/%F0%9D%95%AC%F0%9D%96%91%F0%9D%96%95%F0%9D%96%8D%F0%9D%96%86_%F0%9D%95%AE%F0%9D%96%8D%F0%9D%96%8A%F0%9D%96%98%F0%9D%96%98_%F0%9D%95%AD%F0%9D%96%94%F0%9D%96%99-13_0_0_user.js
 // ==/UserScript==
 
 (function() {
